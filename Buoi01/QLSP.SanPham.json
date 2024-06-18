@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6671191ab02ca84c435075a8"
+  },
+  "MaSP": "SP001",
+  "TenSP": "Iphone 15",
+  "LoaiSP": {
+    "MaLoai": "ML006",
+    "TenLoai": "Iphone"
+  },
+  "SoLuong": 20
+},
+{
+  "_id": {
+    "$oid": "6671191ab02ca84c435075a9"
+  },
+  "MaSP": "SP002",
+  "TenSP": "Macbook",
+  "LoaiSP": {
+    "MaLoai": "ML005",
+    "TenLoai": "Iphone"
+  },
+  "SoLuong": 50
+},
+{
+  "_id": {
+    "$oid": "6671191ab02ca84c435075aa"
+  },
+  "MaSP": "SP003",
+  "TenSP": "SamSung Galaxy A02S",
+  "LoaiSP": {
+    "MaLoai": "ML002",
+    "TenLoai": "SamSung"
+  },
+  "SoLuong": 32
+}]

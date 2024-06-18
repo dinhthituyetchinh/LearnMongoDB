@@ -1,0 +1,347 @@
+[{
+  "_id": {
+    "$oid": "66714b4de3f57358d2c877c2"
+  },
+  "Masv": "sv001",
+  "Hoten": "Trần Minh Nghĩa",
+  "Ngaysinh": {
+    "$date": "2003-04-14T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "nghia222@gmail.com",
+    "minhnghia112gmail.com"
+  ],
+  "Ngoaingu": [
+    "Tiếng Anh",
+    "Tiếng Pháp"
+  ],
+  "Lop": {
+    "Malop": "101",
+    "Tenlop": "12DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 7.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 9
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 8.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66714d3be3f57358d2c877c3"
+  },
+  "Masv": "sv002",
+  "Hoten": "Nguyễn Văn Anh",
+  "Ngaysinh": {
+    "$date": "2003-05-03T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "anhnguyen12@gmail.com",
+    "nguyenanhanh2gmail.com"
+  ],
+  "Ngoaingu": [
+    "Tiếng Anh",
+    "Tiếng Hoa"
+  ],
+  "Lop": {
+    "Malop": "101",
+    "Tenlop": "12DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 5.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 8
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 8.9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66714e80e3f57358d2c877c5"
+  },
+  "Masv": "sv003",
+  "Hoten": "Nguyễn Ngọc Anh",
+  "Ngaysinh": {
+    "$date": "2003-10-03T00:00:00.000Z"
+  },
+  "Phai": "Nữ",
+  "Email": [
+    "anhnguyen12@gmail.com",
+    "nguyenanhanh2gmail.com"
+  ],
+  "Ngoaingu": [
+    "Tiếng Anh",
+    "Tiếng Hoa"
+  ],
+  "Lop": {
+    "Malop": "101",
+    "Tenlop": "12DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 7.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 5
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 9.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66715295e3f57358d2c877ca"
+  },
+  "Masv": "sv006",
+  "Hoten": "Trần Minh",
+  "Ngaysinh": {
+    "$date": "2003-07-16T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "mimhminh22@gmail.com",
+    "tranminh345gmail.com"
+  ],
+  "Ngoaingu": "Tiếng Anh",
+  "Lop": {
+    "Malop": "101",
+    "Tenlop": "12DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 7
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 7.5
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 8.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667156e2e3f57358d2c877cd"
+  },
+  "Masv": "sv007",
+  "Hoten": "Kiều Ngọc Hoa",
+  "Ngaysinh": {
+    "$date": "2002-04-20T00:00:00.000Z"
+  },
+  "Phai": "Nữ",
+  "Email": [
+    "hoakieu@gmail.com",
+    "hoahoa33gmail.com"
+  ],
+  "Ngoaingu": [
+    "Tiếng Anh",
+    "Tiếng Hoa"
+  ],
+  "Lop": {
+    "Malop": "103",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 9.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 8
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 9.9
+    },
+    {
+      "Mamh": "m004",
+      "Tenmh": "Công nghệ .NET",
+      "Sotc": 3,
+      "Diem": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667156e2e3f57358d2c877ce"
+  },
+  "Masv": "sv008",
+  "Hoten": "Lê Ngọc Linh Chi",
+  "Ngaysinh": {
+    "$date": "2003-06-23T00:00:00.000Z"
+  },
+  "Phai": "Nữ",
+  "Email": [
+    "chichile@gmail.com",
+    "chilegmail.com"
+  ],
+  "Ngoaingu": "Tiếng Anh",
+  "Lop": {
+    "Malop": "103",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 7.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 5.9
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 6.8
+    },
+    {
+      "Mamh": "m004",
+      "Tenmh": "Công nghệ .NET",
+      "Sotc": 3,
+      "Diem": 6.8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66715781e3f57358d2c877cf"
+  },
+  "Masv": "sv004",
+  "Hoten": "Đinh Thị Tuyết Chinh",
+  "Ngaysinh": {
+    "$date": "2003-04-20T00:00:00.000Z"
+  },
+  "Phai": "Nữ",
+  "Email": [
+    "fengdinh@gmail.com",
+    "tuyetchinh2004gmail.com"
+  ],
+  "Ngoaingu": [
+    "Tiếng Anh",
+    "Tiếng Hoa"
+  ],
+  "Lop": {
+    "Malop": "101",
+    "Tenlop": "12DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 9.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 8
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 9.9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66715781e3f57358d2c877d0"
+  },
+  "Masv": "sv005",
+  "Hoten": "Lê Ngọc Linh Chi",
+  "Ngaysinh": {
+    "$date": "2003-06-23T00:00:00.000Z"
+  },
+  "Phai": "Nữ",
+  "Email": [
+    "chichile@gmail.com",
+    "chilegmail.com"
+  ],
+  "Ngoaingu": "Tiếng Anh",
+  "Lop": {
+    "Malop": "101",
+    "Tenlop": "12DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 7.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 5.9
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Lập trình C",
+      "Sotc": 3,
+      "Diem": 6.8
+    }
+  ]
+}]
